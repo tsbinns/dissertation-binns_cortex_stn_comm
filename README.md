@@ -1,6 +1,6 @@
 # dissertation-binns_cortex_stn_comm
 
-Code for the dissertation of Thomas Samuel Binns titled "Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease", submitted to the Charité - Universitätsmedizin Berlin for the award of the academic degree of Doctor of Philosophy (PhD), based on the publication Binns *et al.* (Pre-print), DOI: [10.1101/2024.04.14.586969](https://doi.org/10.1101/2024.04.14.586969).
+Code for the dissertation of Thomas Samuel Binns titled "Shared network mechanisms of dopamine and deep brain stimulation for the treatment of Parkinson’s disease", submitted to the Charité - Universitätsmedizin Berlin for the award of the academic degree of Doctor of Philosophy (PhD), based on the publication Binns *et al.* (2025). *Nature Communications*. DOI: [10.1038/s41467-025-58825-z](https://doi.org/10.1038/s41467-025-58825-z).
 
 The repository has the following structure:
 - [processing](processing) - location of scripts for (pre)processing of data (view [README](processing/README.txt))
